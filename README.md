@@ -1,2 +1,2 @@
 #NewProject
-this is casual project
+this is casual projects.
